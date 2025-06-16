@@ -1,7 +1,7 @@
 ## Hi there 👋
 Am Ola, **Aspiring Software Developer | Web Developer | Associate Python Developer**
 
-Passionate about building full‑stack applications, optimizing workflows with AI, and crafting clean, responsive UIs.
+Passionate about building full‑stack applications, python scripting, optimizing workflows with AI, and crafting clean, responsive UIs.
 I love turning ideas into real, working applications and continuously leveling up my skills through courses and personal projects.
 
 ## 🛠️ Tech Stack
